@@ -1,0 +1,29 @@
+{
+    "name": "vkr-gui",
+    "version": "0.0.1",
+    "description": "SavaLione",
+    "main": "main.js",
+    "scripts": {
+        "test": "xo",
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SavaLione/electron-test.git"
+    },
+    "keywords": [
+        "SavaLione"
+    ],
+    "author": "Saveliy (SavaLione)",
+    "license": "UNLICENSED",
+    "bugs": {
+        "url": "https://github.com/SavaLione/electron-test/issues"
+    },
+    "homepage": "https://github.com/SavaLione/electron-test#readme",
+    "devDependencies": {
+        "electron": "^12.0.0"
+    },
+    "dependencies": {
+        "monaco-editor": "^0.23.0"
+    }
+}
